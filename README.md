@@ -105,7 +105,7 @@ semántico, el diseño _responsive_, o la accesibilidad.
 
 
 <details id=2>
-<summary><h2>Ejercicio 3</h2></summary>
+<summary><h2>Ejercicio 2</h2></summary>
 
 ### :wrench: Este ejercicio tiene las siguientes partes:
 
