@@ -86,7 +86,14 @@ semántico, el diseño _responsive_, o la accesibilidad.
      definidos en algunos de los _tokens de diseño_ que puedes
      encontrar en el siguiente repositorio:
      [https://github.com/sturobson/Awesome-Design-Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
+
+     Indica en un comentario del css el nombre del diseño de tu
+     elección.
   
+     > :warning: Sólo tienes que copiar los valores que especifica el
+     > diseño elegido, no tienes que usar los recursos o herramientas
+     > del repositorio.
+
      > :warning: Asegúrate de que la hoja de estilos sigue el estándar
      > y la herramienta de validación no informa de ningún error.
   
